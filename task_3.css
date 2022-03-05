@@ -1,0 +1,43 @@
+.header{
+    display: flex;
+    justify-content: center;
+}
+.left{
+    display:inline-block;
+    /* padding-right: auto; */
+    /* border: 2px solid red; */
+
+}
+.mid{
+    width: 33%;
+    margin: 12px auto;
+    padding:20px;
+}
+.navbar{
+    display: inline-block;
+}
+.navbar li{
+    color: white;
+    display: inline-block;
+
+}
+.navbar li a{
+    color: rgb(0, 0, 0);
+    padding: 40px 23px;
+    font-size: 20px;
+}
+.right{
+    display: inline-block;
+    padding: 40px 23px;
+     font-size: 20px;
+     font-family: Georgia, 'Times New Roman', Times, serif;
+    
+    
+}
+.index{
+    display: inline-block;
+    margin:1px 528px;
+    padding: 0px 88px;
+    font-size: 3em;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
